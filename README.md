@@ -1,2 +1,6 @@
 # vitest-browser-debugger
-test vitest debugger in browser
+
+```shell
+pnpm install
+pnpm run test
+```
